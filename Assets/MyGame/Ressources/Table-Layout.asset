@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c53a73574ef245b8af97b249b78117a, type: 3}
   m_Name: Table-Layout
   m_EditorClassIdentifier: 
-  rows: 0
-  columns: 0
-  tableSpacing: 0
-  chairSpacing: 0
+  rows: 3
+  columns: 4
+  tableSpacing: 40
+  chairSpacing: 0.3

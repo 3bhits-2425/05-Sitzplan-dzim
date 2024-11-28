@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 176e0c5af8388496299cb3961cb55de0, type: 3}
   m_Name: Mirza
   m_EditorClassIdentifier: 
-  studentName: 
-  eyeColor: {r: 0, g: 0, b: 0, a: 0}
-  studentImage: {fileID: 0}
-  studentClip: {fileID: 0}
+  studentName: Mirza
+  eyeColor: {r: 0.060742266, g: 0.3301887, b: 0.27392474, a: 0}
+  studentImage: {fileID: 21300000, guid: 4fe482f6e502e4201ad977d886a4f446, type: 3}
+  studentClip: {fileID: 8300000, guid: 7b9be5390482648d2b05745d5aba6bbb, type: 3}
