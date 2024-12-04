@@ -1,6 +1,7 @@
- Wir haben ein Sitzplan erstellt,
- den Schüler Eigenschaften gegeben wie z.B. Augenfarbe,
- Rolle und eine Audio die diesen Schüler beschreibt.
- Nach dem haben wir ein Prefab erstellt,
- mit einem Stuhl und einem Tisch drinnen und haben die Anordnung mit den
- Tischen zugelegt mit einem Script.
+We created a Sitplan with tables and chairs as prefabs, 
+and students. The students we created got specific characteristics
+for example eyecolour, sound which describes them and the role in the class.
+
+
+https://github.com/user-attachments/assets/6e2e40f9-d38c-4b73-b91a-d33b6de4568e
+[Uploading Skizze.pdf…]()
