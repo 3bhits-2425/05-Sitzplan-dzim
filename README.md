@@ -4,4 +4,3 @@
  Nach dem haben wir ein Prefab erstellt,
  mit einem Stuhl und einem Tisch drinnen und haben die Anordnung mit den
  Tischen zugelegt mit einem Script.
- Seavas
