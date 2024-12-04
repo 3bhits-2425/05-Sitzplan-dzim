@@ -1,3 +1,4 @@
+
 Wir haben ein Sitzplan erstellt, den Schüler Eigenschaften gegeben wie z.B. Augenfarbe, 
 Rolle und eine Audio die diesen Schüler beschreibt. 
 Nach dem haben wir ein Prefab erstellt, 
