@@ -4,7 +4,7 @@ public class RoomManager : MonoBehaviour
 {
     [SerializeField] private TableLayoutData tableLayout; //Ref zu TableLayout ScriptableObject
     [SerializeField] private StudentLayoutData[] students; //
-    [SerializeField] private GameObject tablePrefab; //Prefab für Tisch
+    [SerializeField] private tablePrefab; //Prefab für Tisch
     [SerializeField] private GameObject chairPrefab; //Prefab für Stuhl
 
     void Start()
